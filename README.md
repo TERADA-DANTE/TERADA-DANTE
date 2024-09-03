@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### A poor stack engineer 🥝
+  ### A poor stack developer 🥝
   
   My dream is bigger than `node_modules`
   
